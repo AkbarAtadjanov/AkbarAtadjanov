@@ -1,6 +1,6 @@
 ### Hi there 👋
 <a href="https://www.instagram.com/abhisheknaiidu/">
-  <img align="left" alt="Instagram" width="22px" src="https://www.instagram.com/" />
+  <img align="left" alt="Instagram" width="22px" src="" />
 </a>
 <a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
