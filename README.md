@@ -16,7 +16,6 @@ I can build all kinds of websites,Crud systems.Learn more about me and contact m
 <br>
 
 
-Hello, I am Akbar Otajonov Frontend Developer. My goal is to become a strong developer and create my own IT company.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
