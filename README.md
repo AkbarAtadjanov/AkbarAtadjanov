@@ -26,18 +26,6 @@ I can build all kinds of websites,Crud systems.
 <img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 
-
-<!-- <a href="https://www.instagram.com/akbarshax_1/">
-  <img align="left" alt=" Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png"/>
-</a>
-
-<a href="https://twitter.com/@AkbarOtajanov">
-  <img align="left" alt="Akbar Otajonov | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/akbar-otajonov-750aab273/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> -->
-<!-- </a> -->
-
 <br>
 
 <h1>## ⚡ Technologies</h1>
@@ -49,14 +37,10 @@ I can build all kinds of websites,Crud systems.
 ![Image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Image](https://img.shields.io/badge/React-F05032?style=for-the-badge&logo=react&logoColor=white)
 ![Image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 <br>
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AkbarAtadjanov&show_icons=true&theme=gotham" alt="akbaratadjanov" />
-
-
-
-
-
-
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="200" />
  <br>
