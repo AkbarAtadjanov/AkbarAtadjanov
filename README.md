@@ -1,7 +1,10 @@
-Hello 👋 I am Akbar Otajonov Frontend Developer. My goal is to become a strong developer and create my own IT company.
+Hi 👋 
+<br>
 
-I can build all kinds of websites,Crud systems.Learn more about me and contact me here:
+I am Akbar Otajonov Frontend Developer. My goal is to become a strong developer and create my own IT company.
+I can build all kinds of websites,Crud systems.
 
+Follow me:
 <a href="https://www.instagram.com/akbarshax_1/">
   <img align="left" alt=" Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
