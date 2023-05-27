@@ -7,6 +7,10 @@ I can build all kinds of websites,Crud systems.
 
 <h1>Follow me:</h1>
 <br>
+
+[![Telegram Badge](https://img.shields.io/badge/@atadjanov_akbar01-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/@atadjanov_akbar01)](https://t.me/@atadjanov_akbar01) 
+
+
 <a href="https://www.instagram.com/akbarshax_1/">
   <img align="left" alt=" Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png"/>
 </a>
@@ -18,9 +22,7 @@ I can build all kinds of websites,Crud systems.
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
- <a class="btn btn-telegram" href="javascript:void(0)">
-    <i class="fab fa-telegram"></i>
-  </a>
+
 <br>
 
 
