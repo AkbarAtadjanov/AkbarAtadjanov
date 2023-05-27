@@ -1,4 +1,4 @@
- <h2> ## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="15px">  Akbar Atadjanov 👨🏻‍💻  </h2>
+ <p> ## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="15px">  Akbar Atadjanov 👨🏻‍💻  </p>
  
 <br>
 
