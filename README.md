@@ -1,4 +1,6 @@
-## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm Akbar Atadjanov" title="👋 Hi there! I'm Frontend Developer"/>
+
+<!-- ## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> -->
  
 <br>
 
