@@ -27,7 +27,7 @@ I can build all kinds of websites,Crud systems.
 
 
 ![Image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Image](https://img.shields.io/badge/Github-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Image](https://img.shields.io/badge/Github-009639?style=for-the-badge&logo=github&logoColor=white)
 ![Image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Image](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Image](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
