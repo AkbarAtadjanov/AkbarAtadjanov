@@ -1,5 +1,5 @@
- <h1>    <img src="GIF/Earth.gif" width="24px"> Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="25px"> I'm Akbar Atadjanov 👨🏻‍💻  </h1>
- 
+ <h1>  Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="25px"> I'm Akbar Atadjanov 👨🏻‍💻  </h1>
+ <img src="GIF/Earth.gif" width="24px"> 
 <br>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
