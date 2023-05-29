@@ -1,4 +1,4 @@
- <h1> Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="25px">  Akbar Atadjanov 👨🏻‍💻  </h1>
+ <h1> Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="25px"> I'm Akbar Atadjanov 👨🏻‍💻  </h1>
  
 <br>
 
