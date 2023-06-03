@@ -1,7 +1,9 @@
  <h1>  Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="25px"> I'm Akbar Atadjanov 👨🏻‍💻  </h1>
+ 
+ <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
 <br>
 
-<img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
+
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
