@@ -1,6 +1,9 @@
  <h1>  Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="25px"> I'm Akbar Atadjanov 👨🏻‍💻  </h1>
 <br>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 I am Frontend Developer.
