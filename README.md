@@ -38,7 +38,7 @@ I can build all kinds of websites,Crud systems.
 
 <h1>⚡ Languages and Tools</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,javascript,reactjs,reactflutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,javascript,reactjs,git,github)](https://skillicons.dev)
 
 
 <!-- ![Image](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
