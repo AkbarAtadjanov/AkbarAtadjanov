@@ -40,6 +40,7 @@ I can build all kinds of websites,Crud systems.
 ![Image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br>
+<br>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AkbarAtadjanov&show_icons=true&theme=gotham" alt="akbaratadjanov" />
 
